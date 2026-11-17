@@ -14,9 +14,9 @@ onboarding, with status updates by webhook.
 
 | | Install |
 |---|---|
-| [JavaScript / TypeScript](https://github.com/hlthstack/js) | `npm install github:hlthstack/js#v1.0.1` |
-| [Python](https://github.com/hlthstack/python) | `pip install "git+https://github.com/hlthstack/python@v1.0.1"` |
-| [Java](https://github.com/hlthstack/java) | JitPack: `com.github.hlthstack:java:v1.0.1` |
+| [JavaScript / TypeScript](https://github.com/hlthstack/js) | `npm install github:hlthstack/js#v1.0.2` |
+| [Python](https://github.com/hlthstack/python) | `pip install "git+https://github.com/hlthstack/python@v1.0.2"` |
+| [Java](https://github.com/hlthstack/java) | JitPack: `com.github.hlthstack:java:v1.0.2` |
 | [Web / PWA embed](https://github.com/hlthstack/web) | Embed the member app in your app or site, with SSO or SAML |
 
 ## Contact
