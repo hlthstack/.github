@@ -7,7 +7,7 @@ onboarding, with status updates by webhook.
 ## Start here
 
 - **[Getting started](https://github.com/hlthstack/integration-guide/blob/main/docs/getting-started.md)**: from access request to go-live.
-- **[API reference](https://developers.hlthstack.io)**, with a Postman collection.
+- **[API reference](https://developers.hlthstack.io)**, and the [Postman docs](https://documenter.getpostman.com/view/32733686/2sBYHbqvwh) to try every call.
 - **[Integration guide](https://github.com/hlthstack/integration-guide)**: OpenAPI spec, guides, changelog, and skills for Claude Code, Codex and ChatGPT.
 
 ## SDKs and embeds
