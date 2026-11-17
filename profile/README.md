@@ -5,6 +5,7 @@
 Annual health checkups and lab tests, in-clinic and online doctor consultations, ePharmacy,
 benefit wallets and member onboarding, with status updates by webhook.
 
+[For business teams](https://github.com/hlthstack/integration-guide/blob/main/docs/for-business-teams.md) ·
 [Getting started](https://github.com/hlthstack/integration-guide/blob/main/docs/getting-started.md) ·
 [API reference](https://developers.hlthstack.io) ·
 [Postman docs](https://documenter.getpostman.com/view/32733686/2sBYHbrFjt) ·
@@ -27,9 +28,11 @@ benefit wallets and member onboarding, with status updates by webhook.
 
 | | |
 |---|---|
-| **[Getting started](https://github.com/hlthstack/integration-guide/blob/main/docs/getting-started.md)** | From access request to go-live. |
+| **[For business teams](https://github.com/hlthstack/integration-guide/blob/main/docs/for-business-teams.md)** | What members get, the ways to integrate, and what your team decides, without code. |
+| **[Getting started](https://github.com/hlthstack/integration-guide/blob/main/docs/getting-started.md)** | For developers: from access request to go-live. |
 | **[API reference](https://developers.hlthstack.io)** | With the [Postman docs](https://documenter.getpostman.com/view/32733686/2sBYHbrFjt) to try every call. |
 | **[Integration guide](https://github.com/hlthstack/integration-guide)** | OpenAPI spec, guides, changelog, and skills for Claude Code, Codex and ChatGPT. |
+| **[Glossary](https://github.com/hlthstack/integration-guide/blob/main/docs/glossary.md)** | The terms used in the docs, in plain language. |
 
 ## SDKs and embeds
 
